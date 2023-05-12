@@ -1,0 +1,16 @@
+--CREATE TABLE Human(
+--    id integer not null;
+--    name varchar(10);
+--);
+--
+--INSERT INTO Manager (id, fname, lname)
+--VALUES
+--(1, 'A', 'B'),
+--(2, 'C', 'D),
+--(3, 'E', 'F);
+--
+--INSERT INTO Intern (id, fname, lname, mid)
+--VALUES
+--(1, 'A', 'B', 1),
+--(2, 'C', 'D, 1),
+--(3, 'E', 'F, 2);
